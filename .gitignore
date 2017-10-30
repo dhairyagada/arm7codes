@@ -21,7 +21,6 @@
 *.l1p
 *.l2p
 *.iex
-.#*
 *.uvproj
 *.s
 *.uvgui.*
